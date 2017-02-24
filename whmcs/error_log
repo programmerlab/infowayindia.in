@@ -1,0 +1,6 @@
+[18-Dec-2015 20:32:49 Etc/GMT] PHP Warning:  main(/home/infowmmo/public_html/whmcs/init.php): failed to open stream: No such file or directory in /home/infowmmo/public_html/whmcs/clientarea.php on line 0
+[18-Dec-2015 20:32:49 Etc/GMT] PHP Warning:  main(/home/infowmmo/public_html/whmcs/init.php): failed to open stream: No such file or directory in /home/infowmmo/public_html/whmcs/clientarea.php on line 0
+[18-Dec-2015 20:32:49 Etc/GMT] PHP Fatal error:  main(): Failed opening required '/home/infowmmo/public_html/whmcs/init.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/infowmmo/public_html/whmcs/clientarea.php on line 0
+[18-Dec-2015 20:32:54 Etc/GMT] PHP Warning:  main(/home/infowmmo/public_html/whmcs/init.php): failed to open stream: No such file or directory in /home/infowmmo/public_html/whmcs/clientarea.php on line 0
+[18-Dec-2015 20:32:54 Etc/GMT] PHP Warning:  main(/home/infowmmo/public_html/whmcs/init.php): failed to open stream: No such file or directory in /home/infowmmo/public_html/whmcs/clientarea.php on line 0
+[18-Dec-2015 20:32:54 Etc/GMT] PHP Fatal error:  main(): Failed opening required '/home/infowmmo/public_html/whmcs/init.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/infowmmo/public_html/whmcs/clientarea.php on line 0

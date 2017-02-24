@@ -1,0 +1,18 @@
+[31-May-2016 00:54:29 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/infowmmo/public_html/saiapi/api/login.php on line 10
+[31-May-2016 00:54:29 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/infowmmo/public_html/saiapi/api/login.php on line 11
+[31-May-2016 00:54:29 Asia/Calcutta] PHP Notice:  Undefined variable: password in /home/infowmmo/public_html/saiapi/class/api_class.php on line 7
+[31-May-2016 00:54:29 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/infowmmo/public_html/saiapi/class/api_class.php on line 9
+[31-May-2016 00:55:21 Asia/Calcutta] PHP Notice:  Undefined variable: password in /home/infowmmo/public_html/saiapi/class/api_class.php on line 7
+[31-May-2016 00:55:21 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/infowmmo/public_html/saiapi/class/api_class.php on line 9
+[31-May-2016 00:55:28 Asia/Calcutta] PHP Notice:  Undefined variable: password in /home/infowmmo/public_html/saiapi/class/api_class.php on line 7
+[31-May-2016 00:55:28 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/infowmmo/public_html/saiapi/class/api_class.php on line 9
+[31-May-2016 00:57:09 Asia/Calcutta] PHP Notice:  Undefined variable: password in /home/infowmmo/public_html/saiapi/class/api_class.php on line 7
+[31-May-2016 00:57:27 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/infowmmo/public_html/saiapi/class/api_class.php on line 7
+[31-May-2016 00:57:27 Asia/Calcutta] PHP Notice:  Undefined variable: password in /home/infowmmo/public_html/saiapi/class/api_class.php on line 7
+[31-May-2016 00:58:16 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/infowmmo/public_html/saiapi/class/api_class.php on line 7
+[31-May-2016 00:58:16 Asia/Calcutta] PHP Notice:  Undefined variable: password in /home/infowmmo/public_html/saiapi/class/api_class.php on line 7
+[31-May-2016 00:58:16 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/infowmmo/public_html/saiapi/class/api_class.php on line 10
+[31-May-2016 00:59:43 Asia/Calcutta] PHP Notice:  Undefined variable: password in /home/infowmmo/public_html/saiapi/class/api_class.php on line 7
+[31-May-2016 00:59:43 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/infowmmo/public_html/saiapi/class/api_class.php on line 10
+[31-May-2016 01:00:17 Asia/Calcutta] PHP Notice:  Undefined variable: password in /home/infowmmo/public_html/saiapi/class/api_class.php on line 7
+[31-May-2016 01:00:17 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/infowmmo/public_html/saiapi/class/api_class.php on line 10
